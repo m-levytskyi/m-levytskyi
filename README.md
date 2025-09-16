@@ -1,5 +1,5 @@
-# 💫 About Me:
- 🔭 I’m currently working at Research Neutron Source Heinz Maier-Leibnitz (FRM II)<br>🌱 I’m currently doing a Master's in Computer Science at Munich University of Applied Sciences (HM)<br>
+# About Me:
+ 🔭 Working at Research Neutron Source Heinz Maier-Leibnitz (FRM II)<br>🌱 Doing a Master's in Computer Science at Munich University of Applied Sciences (HM)<br>
 
 
 ## 🌐 Socials:
