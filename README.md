@@ -5,7 +5,7 @@
 * 💼 **Current Role:** ML Engineering / MLOps at FZ Jülich
 * 🎓 **Education:** M.Sc. Computer Science at Munich University of Applied Sciences (HM)
 * ⚡ **Focus:** Generative AI (Normalizing Flows) & MLOps
-* 🛠️ **Workflow:** Linux (Arch/Manjaro) & Apple Silicon
+* 🛠️ **Workflow:** Linux (Arch/Manjaro) & MacOS
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mlevytskyi) 
 
