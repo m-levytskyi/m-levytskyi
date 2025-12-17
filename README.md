@@ -1,5 +1,11 @@
-# About Me:
- 🔭 Working at Research Neutron Source Heinz Maier-Leibnitz (FRM II)<br>🌱 Doing a Master's in Computer Science at Munich University of Applied Sciences (HM)<br>
+### About Me
+
+🖥️ **Machine Learning Engineer & Computer Science Master's Student**
+
+* 💼 **Current Role:** ML Engineering / MLOps at FZ Jülich
+* 🎓 **Education:** M.Sc. Computer Science at Munich University of Applied Sciences (HM)
+* ⚡ **Focus:** Generative AI (Normalizing Flows) & MLOps
+* 🛠️ **Workflow:** Linux (Arch/Manjaro) & Apple Silicon
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mlevytskyi) 
 
